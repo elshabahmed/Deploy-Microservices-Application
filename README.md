@@ -9,3 +9,5 @@
 - The application used more than one programing language, it is used Go, Node.js, c#, Python, Java and Python/Locust.
 
 - The project used redis to store data and used as a message broker in memory database.
+
+- Create YAML file with 11 Deployment and corresponding Service manifests but all Services Components are Internal Services, except the Frontend Service, which needs to be accessed from browser
